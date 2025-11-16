@@ -146,6 +146,7 @@ For this DEVICE particularly in order:
 - Mobvoi Apps package
 - Ultra addon package
 - Flash Magisk ZIP
+- install ZIP Disable_Dm-Verity_ForceEncrypt.zip from recovery, than FORMAT DATA !!ACTUNG!! not FACTORY RESET not WIPE
 
 D) INSTALL ROM/CROM & other AddOn: (AddOn ex.: Gapps[google apk & service])
 
