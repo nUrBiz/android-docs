@@ -8,8 +8,8 @@
 - Pixel 4a [sunfish]
 - Huawei Mate 20 Pro [laya]
 - Redmi Note 7 [lavender]
-- more to come ..
+- more ..
 
 # Coming next Abstract
-- Some APKs
-- more to come ..
+- utility/tools scripts
+- more ..
